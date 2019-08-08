@@ -1,0 +1,11 @@
+.Note{ 
+    background-color: azure;
+    padding: 20px;
+    color: black;
+    margin-top: 10px;
+    border-radius: 15px
+ }
+
+.Note span{ 
+    cursor: pointer;
+ } 
